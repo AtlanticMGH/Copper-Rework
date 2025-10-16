@@ -1,4 +1,5 @@
-DE:
+DE: 
+
 Installation:
   1. Copper-Rework-x.jar runterladen
   2. In Curseforge, Modpack erstellen, Minecraft Version 1.21.10, Fabric, Modloader Version 0.17.3 oder neuer
@@ -7,6 +8,7 @@ Installation:
   5. Spielen
 
 EN:
+
 installation:
   1. download Copper-Rework-x.jar
   2. In Curseforge, create Modpack, Minecraft Version 1.21.10, Fabric, Modloader Version 0.17.3 or newer
