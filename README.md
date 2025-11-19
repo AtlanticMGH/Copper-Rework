@@ -4,9 +4,6 @@ This mod adds 4 Charms, these are items which can be used to gain special abilit
 
 These abilities are very overpowered but since this mod was made for someone who I think doesn't mind, I don't mind
 
-## Source Code
-- [Source Code](https://github.com/AtlanticMGH/Copper-Rework-Sourcecode)
-
 ## Installation
 
 DE: 
